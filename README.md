@@ -19,7 +19,41 @@ This project analyzes employee performance data using Microsoft Excel. The objec
 
 ## 📊 Dashboard Preview
 
-(Add your Dashboard.png image here after uploading it.)
+## 📊 Dashboard Preview
+
+### Employee Performance Dashboard
+![Dashboard](dashboard .png)
+
+### Performance by Department
+![Performance](dashboard performance.png)
+
+### Attendance by Department
+![Attendance](dashboard attendence.png)
+
+### EDA Dataset Overview
+![EDA1](EDA data set 1.png)
+
+![EDA2](EDA dataset2.png)
+
+### EDA Questions
+![Q1](EDA question 1.png)
+
+![Q2](EDA question 2.png)
+
+![Q3](EDA question 3.png)
+
+![Q4](EDA question 4.png)
+
+![Q5](EDA question 5.png)
+
+![Q6](EDA question 6.png)
+
+![Q7](EDA question7.png)
+
+![Q8](EDA question 8.png)
+
+### Project Insights
+![Insights](project insights.png)
 
 ## 📈 Key Insights
 - IT department has the highest average performance score (84.8).
